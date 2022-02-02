@@ -1185,6 +1185,10 @@
   font-size: 18px;
   line-height: 25px;
   border: none;
+  padding-left: 23px;
+}
+.feedback__textarea {
+  padding-top: 23px;
 }
 .feedback__inputs {
   width: 100%;
