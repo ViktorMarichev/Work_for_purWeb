@@ -1,0 +1,31 @@
+{
+  "name": "PurrWeb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb": "^19.0.4"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.25.4",
+    "prettier": "^2.5.1"
+  },
+  "scripts": {
+    "lint": "npx eslint ./src/js/slider.js",
+    "lint:fix": "npx eslint ./src/js/slider.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorMarichev/Work_for_purWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorMarichev/Work_for_purWeb/issues"
+  },
+  "homepage": "https://github.com/ViktorMarichev/Work_for_purWeb#readme"
+}
